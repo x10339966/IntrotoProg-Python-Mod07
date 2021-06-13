@@ -56,17 +56,24 @@ The data is written to a file named Pickles1.dat.
 ## Run Your Script
 
 The following figure shows execution of this script through a command shell. (Figure 1).
- 
-Figure 1: The results of running Assignment07.py from a command shell
+![Results of Figure 1](https://github.com/x10339966/IntrotoProg-Python-Mod07/blob/main/docs/IntroToPython07-01.jpg)
+#### Figure 1: The results of running Assignment07.py from a command shell  
+
 The following figure shows execution of this script through a command shell. (Figure 2).
-
- 
-Figure 2: The results of running Assignment07.py from PyCharm
-
-
+![Results of Figure 2](https://github.com/x10339966/IntrotoProg-Python-Mod07/blob/main/docs/IntroToPython07-02.jpg) 
+####  Figure 2: The results of running Assignment07.py from PyCharm
 
 ## Verify the Script Worked
 
-## Update GitHub Webpage
+Below is a screen capture showing the text file pickles.dat exists and has been updated from the program interface. (Figure 3).
+![Results of Figure 3](https://github.com/x10339966/IntrotoProg-Python-Mod07/blob/main/docs/IntroToPython07-03.jpg) 
+#### Figure 3: Screenshot of data file created from script  – pickles1.dat
 
 ## Summary
+In this assignment we:
+<p>&emsp;•	Research Exception Handling in Python</p>
+<p>&emsp;•	Research Pickling in Python</p>
+<p>&emsp;•	Crete a script which utilizes Pickling and Structured Error Handling</p>
+<p>&emsp;•	Post assignment artifacts to GitHub</p>
+<p>&emsp;•	Update GitHub Webpage</p>
+
