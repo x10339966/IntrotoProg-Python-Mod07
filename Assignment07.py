@@ -3,8 +3,8 @@
 # Description: Demonstrate how Pickling and Structured error handling work
 #
 # ChangeLog (Who,When,What):
-# PBirkeland,06/12/2021,Created and started script
-# PBirkeland,06/12/2021,Added code to complete assignmment 7
+# PBirkeland,05/31/2021,Created and started script
+# PBirkeland,05/31/2021,Added code to complete assignmment 7
 # ---------------------------------------------------------------------------- #
 
 # Data ---------------------------------------------------------------------- #
