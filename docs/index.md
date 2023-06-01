@@ -1,6 +1,6 @@
 # Intro to Programming Python Assignment 07
-**Dev** *PBirkeland*  
-**Date:** *6.12.2021*
+**Dev** *Pat Birkeland*  
+**Date:** *5.31.2023*
 
 ## Introduction
 This week’s assignment asked that we:  
